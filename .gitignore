@@ -1,0 +1,10 @@
+# Ignorer les fichiers avec l'extension .o générés lors de la compilation
+*.o
+
+# Ignorer les fichiers exécutables générés
+my_application
+
+# Ignorer les fichiers temporaires
+*~
+
+
